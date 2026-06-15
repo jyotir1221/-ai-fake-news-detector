@@ -1,0 +1,6 @@
+venv/
+node_modules/
+__pycache__/
+*.pyc
+bert_model/
+fake_news.db
